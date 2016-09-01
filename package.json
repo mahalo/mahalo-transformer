@@ -1,0 +1,23 @@
+{
+  "name": "mahalo-transformer",
+  "description": "Webpack loader for Mahalo JS template files",
+  "version": "0.6.0",
+  "author": {
+    "name": "Markus Schmidt",
+    "email": "m.schmidt@makuko.de"
+  },
+  "repository": "mahalo/mahalo-transformer",
+  "main": "index.js",
+  "keywords": [
+    "mahalo"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "html-minifier": "^3.0.2"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "source-map": "^0.5.6",
+    "typescript": "^1.8.10"
+  }
+}
