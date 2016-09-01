@@ -1,6 +1,6 @@
 {
   "name": "mahalo-transformer",
-  "description": "Webpack loader for Mahalo JS template files",
+  "description": "Transforms Mahalo template files into an exported JavaScript string",
   "version": "0.6.0",
   "author": {
     "name": "Markus Schmidt",
